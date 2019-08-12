@@ -1,0 +1,21 @@
+
+Program requirements
+
+
+1. Authentication system that enables a user to log into their account and view their credentials. A password locker account with my details, a login username and password.
+
+2. Store my already existing account credentials.
+
+3. Create new account credentials in the App and the application should generates a password for me to use when I sign up.
+
+4. The option of putting in a password that I want to use for the new credential account.
+
+5. View my various account credentials and their passwords in the application.
+
+6. I want to delete a credentials account that I no longer need in the application.
+
+7. Able to copy my credentials to the clipboard.
+
+8. Able to dictate the length of the password I generate
+
+Essentially the credentials class is within the Users class... You have to login to the User class for you to access the credentials of the User
